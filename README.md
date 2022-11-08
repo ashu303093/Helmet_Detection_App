@@ -14,4 +14,4 @@ In this Project we have basically created a webapp which predict the helmet of t
 
 6. Image Processing: OpenCV
 
-7.Web Framework: Flask
+7. Web Framework: Flask
