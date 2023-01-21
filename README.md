@@ -1,5 +1,5 @@
 # Helmet_Detection_App
-In this Project we have basically created a webapp which predict the helmet of the Bike Rider whether they are wearing Helmet or Not.
+In this Project we have basically created a webapp which detects whether the person riding the bike is wearing helmet or not.
 
 ## Tech Stack
 1. Programming Language: Python 3.6
